@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_live_reload</id>
+	<name>Files Live Reload</name>
+	<description>Live reloading for the files app</description>
+	<licence>AGPL</licence>
+	<author>Robin Appelman</author>
+
+	<dependencies>
+		<owncloud min-version="8.1"/>
+	</dependencies>
+</info>
