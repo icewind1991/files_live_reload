@@ -5,6 +5,9 @@
 	<description>Live reloading for the files app</description>
 	<licence>AGPL</licence>
 	<author>Robin Appelman</author>
+	<types>
+		<filesystem/>
+	</types>
 
 	<dependencies>
 		<owncloud min-version="8.1"/>
